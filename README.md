@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TDJenks
-- 👀 I’m interested in music and getting faded with the boys
+- 👀 I’m interested in music and AI automation
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything fr
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me trevor.jenks9@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: goated
