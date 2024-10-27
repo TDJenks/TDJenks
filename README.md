@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me trevor.jenks9@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My doctor says I grind in my sleep
+- ⚡ Fun fact: I can backflip on flat ground
 
 <!---
 TDJenks/TDJenks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
