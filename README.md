@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me trevor.jenks9@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can backflip on flat ground
+- ⚡ Fun fact: I can backflip
 
 <!---
 TDJenks/TDJenks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
