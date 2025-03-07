@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TDJenks
-- 👀 I’m interested in music and AI automation
+- 👀 I’m interested in music, AI/ML, and back-end development
 - 🌱 I’m currently in school
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me trevor.jenks9@gmail.com
